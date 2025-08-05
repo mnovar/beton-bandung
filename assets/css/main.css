@@ -735,18 +735,18 @@ h6 {
   transition: all 0.4s;
 }
 
-.fixed-button {
-  /* position: fixed;
-  visibility: visible; */
+.whats {
+  position: fixed;
+  visibility: visible;
   opacity: 1;
-  /* right: 50px;
-  bottom: 15px;
+  right: 50px;
+  bottom: 75px;
   z-index: 99999;
   background-color: var(--accent-color);
   width: 44px;
   height: 44px;
   border-radius: 50px;
-  transition: all 0.4s; */
+  transition: all 0.4s;
 }
 .scroll-top i {
   font-size: 24px;
